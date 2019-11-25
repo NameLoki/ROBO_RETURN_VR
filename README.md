@@ -12,14 +12,14 @@
 #### 이현욱 : Map
 ## 사용도구
 ## 플레이 사진
-<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/stageSelect.png">
-<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/weaponSelect.jpg">
-<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/play2.jpg">
-<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/play4.png">
-<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/hit">
-<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/play1.png">
-<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/play3.png">
-<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/logo">
+<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/Image/stageSelect.png">
+<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/Image/weaponSelect.jpg">
+<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/Image/play2.jpg">
+<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/Image/play4.png">
+<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/Image/hit">
+<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/Image/play1.png">
+<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/Image/play3.png">
+<img width="285" hight="220" src="https://github.com/NameLoki/Narsha2/blob/master/Image/logo">
 
 ## 드라이브 링크 (작업 파일, 클라이언트)
 #### https://drive.google.com/drive/folders/1TYKdcQ4imox2PbiXk3yKeBOcXm3tCdp0
