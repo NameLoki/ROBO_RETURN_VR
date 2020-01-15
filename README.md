@@ -1,7 +1,8 @@
 대구 소프트웨어 고등학교 2019 나르샤 프로그램에서 진행된 프로젝트 입니다.
 
 # ROBO RETURN VR
-![swallow](Image/logo.png)
+![](/Image/logo.png =220x220)
+
 Oculus를 이용한 VR FPS 게임입니다.
 ## 스토리 
 ```
