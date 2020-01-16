@@ -31,5 +31,9 @@ Photoshop
 <img src="https://github.com/NameLoki/Narsha2/blob/master/Image/play1.png">
 <img src="https://github.com/NameLoki/Narsha2/blob/master/Image/play3.png">
 
-## 드라이브 링크 (작업 파일, 클라이언트)
-https://drive.google.com/drive/folders/1TYKdcQ4imox2PbiXk3yKeBOcXm3tCdp0
+## 외부 링크
+Watch ROBO RETURN VR clips [**[link]**](https://www.youtube.com/playlist?list=PLy-huO7U_CmB2dbpGq-EPtoQjE3GegPMP)
+
+Download ROBO RETURN VR [**[link]**](https://github.com/NameLoki/Narsha2/releases)
+
+Get ROBO RETURN VR Source code [**[link]**](https://drive.google.com/drive/folders/1BcdMbhLFxOYqddPFiZI9UaEhJj31xKLK?usp=sharing)
