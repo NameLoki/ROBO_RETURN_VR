@@ -18,10 +18,10 @@ Oculus를 이용한 VR FPS 게임입니다.
 윤재상: Enemey 개발자
 이현욱: Map 개발자
 ## 사용도구
-Unity C#
-Oculus
-VRTK
-Photoshop
+* Unity C#
+* Oculus
+* VRTK
+* Photoshop
 ## 플레이 사진
 <img src="https://github.com/NameLoki/Narsha2/blob/master/Image/stageSelect.png">
 <img src="https://github.com/NameLoki/Narsha2/blob/master/Image/weaponSelect.jpg">
@@ -34,6 +34,6 @@ Photoshop
 ## 외부 링크
 Watch ROBO RETURN VR clips [**[link]**](https://www.youtube.com/playlist?list=PLy-huO7U_CmB2dbpGq-EPtoQjE3GegPMP)
 
-Download ROBO RETURN VR [**[link]**](https://github.com/NameLoki/Narsha2/releases)
+Download ROBO RETURN VR [**[link]**](https://github.com/NameLoki/ROBO_RETURN_VR/releases)
 
 Get ROBO RETURN VR Source code [**[link]**](https://drive.google.com/drive/folders/1BcdMbhLFxOYqddPFiZI9UaEhJj31xKLK?usp=sharing)
