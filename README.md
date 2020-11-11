@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/NameLoki/Narsha2/master/Image/logo.png"/>
 
 Oculus를 이용한 VR FPS 게임입니다.
-## 스토리 
+##  스토리 
 ```
 2045년 미래 인류는 로봇기술의 발전으로 편리해지고 보급된 세상이 왔다. 
 그런데 어느 날 갑작스럽게 로봇들이 사람들을 공격하기 시작하고 반란을 일으켰다. 
